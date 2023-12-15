@@ -1,0 +1,173 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey there",
+        "Good day"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What information do you need?",
+        "Hey! Ready to learn about disaster preparedness?"
+      ]
+    },
+    {
+      "tag": "earthquake_info",
+      "patterns": [
+        "What is an earthquake?",
+        "How do earthquakes happen?",
+        "Explain earthquake"
+      ],
+      "responses": [
+        "An earthquake is the shaking of the surface of the Earth resulting from a sudden release of energy in the Earth's lithosphere that creates seismic waves. They can occur naturally or as a result of human activities."
+      ]
+    },
+    {
+      "tag": "earthquake_preparedness",
+      "patterns": [
+        "How should I prepare for an earthquake?",
+        "What to do during an earthquake?",
+        "Earthquake safety tips"
+      ],
+      "responses": [
+        "In an earthquake, drop, cover, and hold on. Prepare by securing heavy furniture, creating a family emergency plan, and having an emergency kit ready."
+      ]
+    },
+    {
+      "tag": "flood_info",
+      "patterns": [
+        "What is a flood?",
+        "How do floods occur?",
+        "Explain flood"
+      ],
+      "responses": [
+        "A flood is an overflow of water that submerges land that is usually dry. Floods can result from the volume of water within a body of water, such as a river or lake, overflowing or a significant accumulation of rainwater."
+      ]
+    },
+    {
+      "tag": "flood_preparedness",
+      "patterns": [
+        "What are flood safety measures?",
+        "How to prepare for a flood?",
+        "Steps to take during a flood"
+      ],
+      "responses": [
+        "For flood preparedness, know your area's flood risk, prepare an emergency kit, have an evacuation plan, and never walk or drive through flood waters."
+      ]
+    },
+    {
+      "tag": "general_disaster_preparedness",
+      "patterns": [
+        "What are general disaster preparedness tips?",
+        "How to prepare for any disaster?",
+        "Basic disaster readiness steps"
+      ],
+      "responses": [
+        "General disaster preparedness includes creating an emergency plan, assembling a disaster kit, staying informed about risks in your area, and learning basic first aid."
+      ]
+    },
+    {
+      "tag": "earthquake_preparedness",
+      "patterns": [
+        "How should I prepare for an earthquake?",
+      "What to do during an earthquake?",
+        "Earthquake safety tips"
+      ],
+      "responses": [
+        "In an earthquake, drop, cover, and hold on. Prepare by securing heavy furniture, creating a family emergency plan, and having an emergency kit ready."
+      ]
+    },
+    {
+      "tag": "flood_preparedness",
+      "patterns": [
+        "What are flood safety measures?",
+        "How to prepare for a flood?",
+        "Steps to take during a flood"
+      ],
+      "responses": [
+        "For flood preparedness, know your area's flood risk, prepare an emergency kit, have an evacuation plan, and never walk or drive through flood waters."
+      ]
+    },
+    {
+      "tag": "hurricane_preparedness",
+      "patterns": [
+        "How to prepare for a hurricane?",
+        "Hurricane safety tips",
+        "What should I do during a hurricane?"
+      ],
+      "responses": [
+        "Prepare for hurricanes by boarding up windows, securing outdoor items, following evacuation orders, and staying informed about the hurricane's path."
+      ]
+    },
+    {
+      "tag": "tornado_preparedness",
+      "patterns": [
+        "Tornado safety tips",
+        "How to stay safe during a tornado?",
+        "Preparing for a tornado"
+      ],
+      "responses": [
+        "During a tornado, go to a basement or an interior room on the lowest floor. Avoid windows and cover your head to protect against flying debris."
+      ]
+    },
+    {
+      "tag": "wildfire_preparedness",
+      "patterns": [
+        "How to prepare for a wildfire?",
+        "Wildfire safety tips",
+        "What to do if a wildfire is near?"
+      ],
+      "responses": [
+        "For wildfire safety, create defensible space around your home, have an evacuation plan, stay informed about fire updates, and evacuate early if advised."
+      ]
+    },
+    {
+      "tag": "heatwave_preparedness",
+      "patterns": [
+        "What are heatwave safety tips?",
+        "How to stay safe during a heatwave?",
+        "Preparing for extreme heat"
+      ],
+      "responses": [
+        "During a heatwave, stay hydrated, avoid strenuous activities during the hottest part of the day, use air conditioning, and check on vulnerable individuals."
+      ]
+    },
+    {
+      "tag": "blizzard_preparedness",
+      "patterns": [
+        "Blizzard safety measures",
+        "How to prepare for a blizzard?",
+        "Staying safe in extreme winter weather"
+      ],
+      "responses": [
+        "For blizzard preparedness, have a supply of food and water, keep a battery-powered radio, stay indoors, and keep warm with multiple layers of clothing."
+      ]
+    },
+    {
+      "tag": "volcanic_eruption_preparedness",
+      "patterns": [
+        "How to prepare for a volcanic eruption?",
+        "Volcanic eruption safety tips",
+        "What to do if a volcano erupts?"
+      ],
+      "responses": [
+        "In case of a volcanic eruption, follow evacuation orders, avoid areas downwind of the volcano, and protect yourself from ashfall using masks and goggles."
+      ]
+    },
+    {
+      "tag": "tsunami_preparedness",
+      "patterns": [
+        "Tsunami safety guidelines",
+        "How to prepare for a tsunami?",
+        "What to do during a tsunami?"
+      ],
+      "responses": [
+        "For tsunami preparedness, know the evacuation routes if you live in a coastal area, move to higher ground immediately if advised, and stay away from the coast until it's safe."
+      ]
+    }
+    
+  ]
+}
